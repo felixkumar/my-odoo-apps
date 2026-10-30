@@ -1,6 +1,6 @@
 {
     'name': 'Product Master MRP Discount Calculator',
-    'version': '18.0.1.0.0',
+    'version': '16.0.1.0.0',
     'category': 'Sales/Sales',
     'summary': 'Calculates discounted sales price based on MRP and discount percentage.',
     'author': 'Felix Kumar',
